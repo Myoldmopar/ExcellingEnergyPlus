@@ -1,10 +1,6 @@
 # Excelling EnergyPlus
 
-OK, so I'm not the first person to try to call EnergyPlus from Excel.  Even though I was doing it back in 2008. :D :D
-
-But I might be one of the first to integrate the EnergyPlus API with callbacks into the VBA?  Maybe?
-
-Lots of complications getting this going, and it's definitely definitely not robust against all issues, but it is an end-to-end prototype.
+OK, so I'm not the first person to try to call EnergyPlus from Excel.  Even though I was doing it back in 2008.  But I might be one of the first to integrate the EnergyPlus API with callbacks into the VBA?  Maybe?  Lots of complications getting this going, and it's definitely definitely not robust against all issues, but it is an end-to-end prototype.
 
 ## Basic Architecture
 
