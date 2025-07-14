@@ -30,7 +30,7 @@ SILLY!
   - Note that for some reason the 32-bit build of 25.1.0 is missing the python312.dll file, weird!
   - I had to install Python 3.12 and then copy the python312.dll file over into the EnergyPlus install
 - Download the latest release package here, should be 32-bit for now
-- Open the workbook from this release package
+- Right click on the workbook and unblock so that you can enable macros
+- Open the workbook from this release package, and enable macros
 - Select paths accordingly - the path to EnergyPlus install folder, the IDF/EPW to run, and an output directory
 - Run EnergyPlus, and hopefully watch the live messages and progress!
-  
